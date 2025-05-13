@@ -20,5 +20,6 @@ public static void main (String [] args){
     } else {
         System.out.println ("sesion incorrecta");
     }
+    System.ou.println("Derechos reservados de SA. de CV.")
 }
 }
